@@ -1,9 +1,7 @@
 #include <iostream>
-#include "day1/day1.h"
+#include "day2/day2.h"
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
-    solve_1();
+    solve_2();
     return 0;
-
 }
