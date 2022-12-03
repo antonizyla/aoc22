@@ -3,4 +3,4 @@ project(aoc22)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(aoc22 main.cpp day1/day1.h day2/day2.h)
+add_executable(aoc22 main.cpp day1/day1.h day2/day2.h day3/day3.h)
