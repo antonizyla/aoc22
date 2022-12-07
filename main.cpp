@@ -1,7 +1,7 @@
 #include <iostream>
-#include "day6/day6.h"
+#include "day7/day7.h"
 
 int main() {
-    solve_6();
+    solve_7();
     return 0;
 }
