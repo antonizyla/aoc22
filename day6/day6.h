@@ -18,7 +18,7 @@ void solve_6(){
         buffer[input[i+2]] =1;
         buffer[input[i+3]] =1;
         if (buffer.size() == 4){
-            std:: cout << "Found a packet at " << i + 4 << std::endl;
+            std:: cout << "Found a packet height_at " << i + 4 << std::endl;
             break;
         }
         i++;
@@ -30,7 +30,7 @@ void solve_6(){
             buffer[input[i+k]] =1;
         }
         if (buffer.size() == 14){
-            std:: cout << "Found a message at " << i + 14 << std::endl;
+            std:: cout << "Found a message height_at " << i + 14 << std::endl;
             break;
         }
         i++;

@@ -1,7 +1,6 @@
-#include "day11/day11.h"
-//#include "day11/a.h"
+#include "day12/day12.h"
+
 int main() {
-    solve_11();
-    //a();
+    solve_12();
     return 0;
 }
