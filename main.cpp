@@ -1,6 +1,6 @@
-#include "day12/day12.h"
+#include "day14/day14.h"
 
 int main() {
-    solve_12();
+    solve_14();
     return 0;
 }
